@@ -2,7 +2,7 @@
 HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation
 
 <a href='https://kkakkkka.github.io/HunyuanPortrait'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href='https://arxiv.org/pdf/2503.18860'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 
 ## Open-source Plan

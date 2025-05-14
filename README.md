@@ -59,9 +59,19 @@ https://github.com/user-attachments/assets/bdd4c1db-ed90-4a24-a3c6-3ea0b436c227
 
 
 # 📍 Note  
-### 🕹 We are actively passing the internal open source review and will upload the code and weights after the review is completed.
-### 💗 Thanks for your attention! If you are interested in our work, please give us a star ⭐️⭐️⭐ to let us know.
-### 🚀 We will speed up the process! 
+🕹 We are actively passing the internal open source review and will upload the code and weights after the review is completed.
+
+💗 Thanks for your attention! If you are interested in our work, please give us a star ⭐️⭐️⭐ to let us know.
+
+🚀 We will definitely release the code in May, please stay tuned!
+
+## Acknowledgements
+
+The code is based on [SVD](https://github.com/Stability-AI/generative-models). We thank the authors for their open-sourced code and encourage users to cite their works when applicable.
+
+Stable Video Diffusion is licensed under the Stable Video Diffusion Research License, Copyright (c) Stability AI Ltd. All Rights Reserved.
+
+This codebase is intended solely for academic purposes.
 
 # 🎼 Citation 
 If you think this project is helpful, please feel free to leave a star⭐️⭐️⭐️ and cite our paper:

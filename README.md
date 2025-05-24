@@ -8,7 +8,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/kkakkkka/HunyuanPortrait
+git clone --single-branch --branch main https://github.com/kkakkkka/HunyuanPortrait
 pip3 install torch torchvision torchaudio
 pip3 install -r requirements.txt
 ```

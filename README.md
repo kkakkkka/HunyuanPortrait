@@ -5,6 +5,11 @@
 <a href='https://kkakkkka.github.io/HunyuanPortrait/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kkakkkka.HunyuanPortrait&left_color=green&right_color=red)  [![GitHub](https://img.shields.io/github/stars/kkakkkka/HunyuanPortrait?style=social)](https://github.com/kkakkkka/HunyuanPortrait) 
 </div>
 
+## 📜 Requirements
+* An NVIDIA 3090 GPU with CUDA support is required. 
+  * The model is tested on a single 24G GPU.
+* Tested operating system: Linux
+
 ## Installation
 
 ```bash

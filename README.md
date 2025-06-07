@@ -28,7 +28,7 @@ huggingface-cli download --resume-download stabilityai/stable-video-diffusion-im
 wget -c https://huggingface.co/LeonJoe13/Sonic/resolve/main/yoloface_v5m.pt
 wget -c https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt/resolve/main/vae/diffusion_pytorch_model.fp16.safetensors -P vae
 wget -c https://huggingface.co/FoivosPar/Arc2Face/resolve/da2f1e9aa3954dad093213acfc9ae75a68da6ffd/arcface.onnx
-huggingface-cli download --resume-download kkakkkka/HunyuanPortrait --local-dir hyportrait
+huggingface-cli download --resume-download tencent/HunyuanPortrait --local-dir hyportrait
 ```
 
 And the file structure is as follows:
